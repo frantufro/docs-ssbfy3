@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-b1juno.cuansalam.sbs/sitemap.xml
